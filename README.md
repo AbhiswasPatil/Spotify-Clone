@@ -19,3 +19,5 @@ Go to http://localhost:8080/phpmyadmin to go into the admin page and click the "
 Click on the newly created database "Spotify" on the left side of the screen and go to "Import" on the right side of the screen, locate the file in the git repository called spotifyCreateWholeDatabaseSoFar copy.sql and then click "Go" to import all the SQL instructions for creating the tables and entries for each table in the database.
 
 Now go to http://localhost:8080/Spotify_Clone/register.php to access the registration page, Make sure to register for your own user profile and then log in to the system.
+
+Course Reference : https://www.udemy.com/course/spotify-clone/
